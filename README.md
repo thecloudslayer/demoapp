@@ -1,6 +1,15 @@
-# MicroService Demo App
+ Demo App
+Step 1:
 
+git clons https://github.com/thecloudslayer/demoapp.git
 
+Step 2: 
+
+cd demoapp
+
+Step 3:
+
+docker-compose up
 
 Front End: React 
 
