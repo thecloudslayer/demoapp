@@ -1,16 +1,23 @@
  Demo App
+
+### Install
 Step 1:
-
-git clons https://github.com/thecloudslayer/demoapp.git
-
+```
+ git clone https://github.com/thecloudslayer/demoapp.git
+ ```
+ ### Navigate 
 Step 2: 
+```
+ cd demoapp
+```
 
-cd demoapp
-
+### Run
 Step 3:
+```
+ docker-compose up
+```
 
-docker-compose up
-
+## Usage
 Front End: React 
 
 API Server: Express.JS + Node.JS
