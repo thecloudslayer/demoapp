@@ -5,7 +5,7 @@ Step 1:
 ```
  git clone https://github.com/thecloudslayer/demoapp.git
  ```
- ### Navigate 
+### Navigate 
 Step 2: 
 ```
  cd demoapp
