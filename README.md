@@ -20,6 +20,9 @@ Step 3:
 ```
 
 ## Usage
+```
+http://localhost:3000/
+```
 Front End: React 
 
 API Server: Express.JS + Node.JS
