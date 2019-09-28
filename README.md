@@ -1,4 +1,6 @@
  Demo App
+### Overview 
+A multi tiered application with javascript & Postgres. Get up and running asap with local containers to k8s. 
 
 ### Install
 Step 1:
@@ -31,3 +33,11 @@ PgAdmin: Localhost 3003
 
     user:taylor.c.graham@gmail.com
     pass:password 
+
+###Links
+- Docker Compose: https://docs.docker.com/compose/
+- Postgres Migration: https://github.com/salsita/node-pg-migrate
+- React: https://reactjs.org/
+- React Bootstrap: https://react-bootstrap.github.io/
+- Express.JS: https://expressjs.com/
+- Node.JS: https://nodejs.org/en/
