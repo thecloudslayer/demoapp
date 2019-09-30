@@ -37,6 +37,8 @@ PgAdmin: Localhost 3003
     user:taylor.c.graham@gmail.com
     pass:password 
 
+- When adding database to pgadmin use the name db for connection. 
+
 ###Links
 - Docker Compose: https://docs.docker.com/compose/
 - Postgres Migration: https://github.com/salsita/node-pg-migrate
