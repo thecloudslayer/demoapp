@@ -1,7 +1,7 @@
  Demo App
 ### Overview 
 A multi tiered application with javascript & Postgres. Get up and running asap with local containers to k8s. 
-*** MUST HAVE DOCKER INSTALLED ***
+ - Must have docker installed
 
 ### Install
 Step 1:
